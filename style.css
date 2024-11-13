@@ -1,0 +1,28 @@
+#bfood{
+    color: yellow;
+}
+.afood{
+    color: red;
+}
+#food{
+    color: purple;
+}
+.aclass{
+    background-color: violet;
+}
+#mseries{
+    background-color: tomato;
+}
+#sport{
+    background-color: yellowgreen;
+}
+#standards{
+    background-color: blue;
+    color: yellow;
+}
+
+.cclass{
+    width: 300px;
+    height: 250px;
+    background-color: cadetblue;
+}
